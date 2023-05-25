@@ -3,3 +3,8 @@ from = "/index.html"
 to = "/"
 status = 301
 force = true
+
+[[redirects]]
+from = "/order"
+to = "https://89331sesj0gv7x4h84jrze9p5w.hop.clickbank.net/?tid=outlook"
+force = true
